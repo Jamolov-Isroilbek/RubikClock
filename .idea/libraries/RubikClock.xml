@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RubikClock">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RubikClock.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
